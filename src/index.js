@@ -8,7 +8,12 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>Hello World!</h1>
+    <h1>Groceries!</h1>
+    <ul>
+      <li>Tomatoes</li>
+      <li>Apples</li>
+      <li>Cucumbers</li>
+    </ul>
   </div>,
   document.getElementById("root")
 );
